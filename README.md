@@ -1,4 +1,7 @@
 # Little Sophia's World
 
-# Project492
+# Teaser
+  * [Teaser](https://www.youtube.com/watch?v=gUDXQd7cYiI&t=2s)
+
+# Trailer
 
