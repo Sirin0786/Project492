@@ -1,5 +1,4 @@
 # Little Sophia's World
-  ![0336161](https://user-images.githubusercontent.com/35360503/113744739-2d0cc200-972f-11eb-8ffc-682b333f65a5.PNG)
 
 
 
