@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 52d3707e8829e2149b3cf087f8edabde
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FC Galaxy
+  fontNames:
+  - FC Galaxy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61716ba701fa3df4991cc28f570757b7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

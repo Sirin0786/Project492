@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 71e4430c1cdbdeb4e9df79366d8903e0
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: toy(Clone)
+      parentName: 
+      position: {x: -0.5003239, y: 0.65751743, z: 0.04006186}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Line005
+      parentName: toy(Clone)
+      position: {x: -0.15002257, y: 0.45751256, z: -0.17363136}
+      rotation: {x: 0.7265316, y: 0.58485943, z: -0.29714933, w: 0.20443495}
+      scale: {x: 2.76085, y: 2.7608504, z: 2.7608507}
+    - name: Sphere004
+      parentName: toy(Clone)
+      position: {x: -0.20560166, y: 0.61457646, z: 0.15019801}
+      rotation: {x: -0.28089723, y: 0.64891994, z: 0.6489196, w: -0.28089708}
+      scale: {x: 2.6179256, y: 3.2950745, z: 1.36885}
+    - name: Line006
+      parentName: toy(Clone)
+      position: {x: -0.15002269, y: 0.45751318, z: -0.17363217}
+      rotation: {x: 0.6461941, y: 0.5276218, z: -0.44562227, w: 0.32476026}
+      scale: {x: 2.76085, y: 2.7608504, z: 2.7608504}
+    - name: Sphere005
+      parentName: toy(Clone)
+      position: {x: -0.25719103, y: 0.30692527, z: 0.14087085}
+      rotation: {x: -0.57443357, y: 0.37801316, z: -0.4169704, w: 0.5943634}
+      scale: {x: -2.6179264, y: -3.2950747, z: -1.3688505}
+    - name: Shape002
+      parentName: toy(Clone)
+      position: {x: 0.24388503, y: 0.36614314, z: 0.17352588}
+      rotation: {x: -0.4392786, y: 0.5541068, z: 0.5541067, w: -0.43927863}
+      scale: {x: 2.76085, y: 2.76085, z: 2.76085}
+    - name: Cylinder004
+      parentName: toy(Clone)
+      position: {x: -0.15090878, y: 0.4571621, z: -0.1721533}
+      rotation: {x: 0.67754006, y: 0.13199015, z: -0.6598261, w: -0.29689682}
+      scale: {x: 2.76085, y: 2.76085, z: 2.76085}
+    - name: Box002
+      parentName: toy(Clone)
+      position: {x: 0.24388503, y: 0.36614314, z: 0.17352588}
+      rotation: {x: -0.4392786, y: 0.5541068, z: 0.5541067, w: -0.43927863}
+      scale: {x: 2.76085, y: 2.76085, z: 2.76085}
+    - name: Plane003
+      parentName: toy(Clone)
+      position: {x: 0.07057117, y: 0.3908839, z: -0.12864673}
+      rotation: {x: -0.4392786, y: 0.5541068, z: 0.5541068, w: -0.43927857}
+      scale: {x: 2.7608502, y: 2.76085, z: 6.365771}
+    - name: Object002
+      parentName: toy(Clone)
+      position: {x: 0.07057117, y: 0.3908839, z: -0.12864673}
+      rotation: {x: -0.4392786, y: 0.5541068, z: 0.5541068, w: -0.43927857}
+      scale: {x: 2.7608504, y: 2.76085, z: 6.365771}
+    - name: Sphere002
+      parentName: toy(Clone)
+      position: {x: -0.2654044, y: -0.3104434, z: 0.15019801}
+      rotation: {x: -0.44974926, y: 0.54564273, z: 0.5456423, w: -0.44974893}
+      scale: {x: 2.617925, y: 3.2950745, z: 1.3688499}
+    - name: Cylinder002
+      parentName: toy(Clone)
+      position: {x: -0.09444175, y: -0.5240152, z: -0.17203052}
+      rotation: {x: -0.6275638, y: -0.32582775, z: 0.6994424, w: 0.10382833}
+      scale: {x: 2.76085, y: 2.7608502, z: 2.76085}
+    - name: Sphere003
+      parentName: toy(Clone)
+      position: {x: -0.1452097, y: -0.5983042, z: 0.14087085}
+      rotation: {x: -0.6567002, y: 0.20399192, z: -0.2358991, w: 0.68664676}
+      scale: {x: -2.617926, y: -3.295075, z: -1.3688504}
+    - name: Shape001
+      parentName: toy(Clone)
+      position: {x: 0.24734151, y: -0.2813068, z: 0.17352588}
+      rotation: {x: 0.57564694, y: -0.41064656, z: -0.41064653, w: 0.57564694}
+      scale: {x: 2.76085, y: 2.76085, z: 2.76085}
+    - name: Line004
+      parentName: toy(Clone)
+      position: {x: -0.09381882, y: -0.5232093, z: -0.17346412}
+      rotation: {x: 0.54407734, y: 0.76033515, z: -0.20799588, w: 0.28741607}
+      scale: {x: 2.76085, y: 2.7608492, z: 2.7608504}
+    - name: Object001
+      parentName: toy(Clone)
+      position: {x: 0.08747827, y: -0.3526758, z: -0.12864673}
+      rotation: {x: 0.57564694, y: -0.41064656, z: -0.41064653, w: 0.57564694}
+      scale: {x: 2.76085, y: 2.76085, z: 6.3657703}
+    - name: Line001
+      parentName: toy(Clone)
+      position: {x: -0.15756041, y: -0.3380332, z: -0.1822363}
+      rotation: {x: -0.059151202, y: -0.08762342, z: -0.5778733, w: 0.8092501}
+      scale: {x: 2.76085, y: 2.76085, z: 2.7608497}
+    - name: Line002
+      parentName: toy(Clone)
+      position: {x: -0.15756065, y: -0.3380322, z: -0.1822363}
+      rotation: {x: 0.06577598, y: 0.08743452, z: -0.57715696, w: 0.80927044}
+      scale: {x: 2.7608492, y: 2.7608502, z: 2.7608492}
+    - name: Cylinder001
+      parentName: toy(Clone)
+      position: {x: -0.15885031, y: -0.33690104, z: -0.18262318}
+      rotation: {x: 0.57564694, y: -0.41064656, z: -0.41064653, w: 0.57564694}
+      scale: {x: 2.76085, y: 2.76085, z: 2.76085}
+    - name: Line003
+      parentName: toy(Clone)
+      position: {x: -0.093819186, y: -0.52320874, z: -0.17346485}
+      rotation: {x: 0.48702183, y: 0.6812969, z: -0.31951866, w: 0.443342}
+      scale: {x: 2.7608502, y: 2.7608497, z: 2.7608504}
+    - name: Box001
+      parentName: toy(Clone)
+      position: {x: 0.24734151, y: -0.2813068, z: 0.17352588}
+      rotation: {x: 0.57564694, y: -0.41064656, z: -0.41064653, w: 0.57564694}
+      scale: {x: 2.76085, y: 2.76085, z: 2.76085}
+    - name: Plane002
+      parentName: toy(Clone)
+      position: {x: 0.08747827, y: -0.3526758, z: -0.12864673}
+      rotation: {x: 0.57564694, y: -0.41064656, z: -0.41064653, w: 0.57564694}
+      scale: {x: 2.76085, y: 2.76085, z: 6.3657703}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
