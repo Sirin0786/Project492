@@ -1,8 +1,9 @@
 # Little Sophia's World
+ ![000000](https://user-images.githubusercontent.com/35360503/113744392-e4550900-972e-11eb-80b9-c5440863694a.PNG)
 
 
 # Teaser
-  * [Teaser](https://www.youtube.com/watch?v=gUDXQd7cYiI&t=2s)
+ * [Teaser](https://www.youtube.com/watch?v=gUDXQd7cYiI&t=2s)
 
 # Trailer
 
