@@ -14,7 +14,7 @@
  * ดาวน์โหลดตัวไฟล์ Little Sophia's World V0.1 ผ่าน Link Download Game 
  * แตกไฟล์ที่ดาวน์โหลดออกมาและเข้าไปในโฟลเดอร์ Little Sophia's World V0.1 
  * เปิดไฟล์ Little Sophia's World V0.1.exe เพื่อทำการเปิดเกม
-   ![image](https://user-images.githubusercontent.com/35360503/113740207-b40b6b80-972a-11eb-97a1-0d6cdc2778c4.png)
+   ![image](https://user-images.githubusercontent.com/35360503/113743442-e36fa780-972d-11eb-839d-c825e02982dd.PNG)
  * ปุ่มควบคุมต่างๆภายในเกม
  
  
